@@ -1,0 +1,25 @@
+{
+  "name": "face-recognition-brain-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanMyaeOo/face-recognition-brain-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanMyaeOo/face-recognition-brain-api/issues"
+  },
+  "homepage": "https://github.com/ChanMyaeOo/face-recognition-brain-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
